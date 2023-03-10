@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample Bing App</string>
+    <string name="maps_api_key" translatable="false">MY_API_KEY</string>
+</resources>
